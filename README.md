@@ -42,7 +42,8 @@ This repository contains solutions for two problems:
     
     4. Run evaluation for generated names:
         python evaluate.py
-        This will output:
+
+    5. This will output:
           a. Total generated names
           b. Novelty rate
           c. Diversity score
