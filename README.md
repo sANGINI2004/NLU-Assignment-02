@@ -28,9 +28,9 @@ This repository contains solutions for two problems:
 
 
 2. Problem 2 (Name Generation)
-    1. enerate Dataset
+    1. enerate Dataset:
         python create_names.py
-    2. Preprocess Data
+    2. Preprocess Data:
         python preprocess.py
     3. Train Models
         a. Vanilla RNN:
@@ -40,9 +40,9 @@ This repository contains solutions for two problems:
         c. Attention RNN:
             python attention_rnn.py
     
-    d. Run evaluation for generated names:
-    python evaluate.py
-This will output:
-  a. Total generated names
-  b. Novelty rate
-  c. Diversity score
+    4. Run evaluation for generated names:
+        python evaluate.py
+        This will output:
+          a. Total generated names
+          b. Novelty rate
+          c. Diversity score
