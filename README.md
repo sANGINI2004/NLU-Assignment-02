@@ -28,19 +28,19 @@ This repository contains solutions for two problems:
 
 
 2. Problem 2 (Name Generation)
-a. enerate Dataset
-    python create_names.py
-b. Preprocess Data
-    python preprocess.py
-c. Train Models
-i. Vanilla RNN:
-    python rnn_model.py
-ii. BLSTM:
-    python blstm_model.py
-iii. Attention RNN:
-    python attention_rnn.py
-
-d. Run evaluation for generated names:
+    1. enerate Dataset
+        python create_names.py
+    2. Preprocess Data
+        python preprocess.py
+    3. Train Models
+        a. Vanilla RNN:
+            python rnn_model.py
+        b. BLSTM:
+            python blstm_model.py
+        c. Attention RNN:
+            python attention_rnn.py
+    
+    d. Run evaluation for generated names:
     python evaluate.py
 This will output:
   a. Total generated names
