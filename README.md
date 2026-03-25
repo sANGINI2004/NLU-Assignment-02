@@ -4,7 +4,7 @@ This repository contains solutions for two problems:
 1. Word Embedding Learning using Word2Vec (CBOW & Skip-gram)  
 2. Character-Level Name Generation using RNN-based models
 
-2. ## Requirements
+# Requirements
 
 1. Install the following dependencies before running:
     pip install torch numpy nltk gensim matplotlib scikit-learn pdfminer.six
