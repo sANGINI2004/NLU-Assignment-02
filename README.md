@@ -13,9 +13,10 @@ This repository contains solutions for two problems:
     nltk.download('punkt')
 
 
-3. ## How to Run
+# How to Run
 
 1. Problem 1 (Word2Vec)
+
 a. Run preprocessing to generate cleaned corpus:
     python your_preprocessing_script.py
 b. Train Word2Vec models:
