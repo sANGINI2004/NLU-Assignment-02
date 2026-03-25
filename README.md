@@ -17,14 +17,14 @@ This repository contains solutions for two problems:
 
 1. Problem 1 (Word2Vec)
 
-a. Run preprocessing to generate cleaned corpus:
-    python your_preprocessing_script.py
-b. Train Word2Vec models:
-    python your_word2vec_script.py
-c. Run analysis (nearest neighbors, analogies):
-    python your_analysis_script.py
-d. Generate visualizations:
-    python your_visualization_script.py
+    1. Run preprocessing to generate cleaned corpus:
+        python your_preprocessing_script.py
+    2. Train Word2Vec models:
+        python your_word2vec_script.py
+    3. Run analysis (nearest neighbors, analogies):
+        python your_analysis_script.py
+    4. Generate visualizations:
+        python your_visualization_script.py
 
 
 2. Problem 2 (Name Generation)
